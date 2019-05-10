@@ -1,0 +1,2 @@
+# GestureRecognition
+使用VGG16模型对常用手势进行分类
